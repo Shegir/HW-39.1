@@ -1,3 +1,4 @@
+// src/components/ClassCounter.jsx
 import { Component } from 'react';
 
 export default class ClassCounter extends Component {
